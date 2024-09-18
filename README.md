@@ -14,3 +14,4 @@
 * 수정 후<br>
 toFixed() 함수를 사용하여 소숫점 자릿수를 한 자리로 지정해 주었다.<br>
 
+![화면 캡처 2024-09-18 171455](https://github.com/user-attachments/assets/0f0fe892-df98-4965-a45b-67178336eb61)
